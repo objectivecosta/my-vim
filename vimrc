@@ -1,4 +1,5 @@
 execute pathogen#infect()
+colorscheme wellsokai
 syntax on
 filetype plugin indent on
 set colorcolumn=90
