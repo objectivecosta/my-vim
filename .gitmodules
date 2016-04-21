@@ -4,3 +4,6 @@
 [submodule "bundle/wellsokai"]
 	path = bundle/wellsokai
 	url = https://github.com/wellsjo/wells-colorscheme.vim.git
+[submodule "bundle/railscasts-theme"]
+	path = bundle/railscasts-theme
+	url = https://github.com/jpo/vim-railscasts-theme.git
