@@ -1,9 +1,8 @@
 execute pathogen#infect()
-colorscheme wellsokai
+colorscheme railscasts
 syntax on
 filetype plugin indent on
 set colorcolumn=90
-highlight ColorColumn ctermbg=red
 set tabstop=2
 set shiftwidth=2
 set expandtab
